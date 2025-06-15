@@ -36,7 +36,22 @@ Some of the included sources:
 - [Phishing Army](https://phishing.army)
 - [Blocklist Project](https://blocklistproject.github.io)
 - [MVPS Hosts](https://winhelp2002.mvps.org/hosts.htm)
-- And many more...
+- [ntop Adblocker Hostnames](http://blacklists.ntop.org/adblocker-hostnames.txt)
+- [ntop Blacklist Hostnames](http://blacklists.ntop.org/blacklist-hostnames.txt)
+- [Denis Ovs Adblock](http://denis-ovs.narod.ru/adblock.txt)
+- [Ayucat List](http://git.sourceforge.jp/view?p=ayucat-list/ayucat-list.git;a=blob_plain;f=ayucat-list.txt;hb=b254c74c132832a3ade7b9d42c2ef8d3dd59fdb9)
+- [IPVerse CN IPv6](http://ipverse.net/ipblocks/data/countries/cn-ipv6.zone)
+- [IPVerse CN](http://ipverse.net/ipblocks/data/countries/cn.zone)
+- [Malware Domains Dynamic DNS](http://malwaredomains.lehigh.edu/files/dynamic_dns.txt)
+- [Phishing Bad Sites](http://phishing.mailscanner.info/phishing.bad.sites.conf)
+- [0xacab Porn Filters](https://0xacab.org/my-privacy-dns/matrix/-/raw/master/source/porn_filters/explicit_content/wildcard.list)
+- [OISD.nl ABP](https://abp.oisd.nl/)
+- [AdAway Hosts](https://adaway.org/hosts.txt)
+- [Energized Adult Blocklist](https://block.energized.pro/assets/mirror/ut1-adult.txt)
+- [EasyList](https://easylist.to/easylist/easylist.txt)
+- [Fanboy Annoyance List](https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt)
+- [AdGuard SDNS Filter](https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/rules.txt)
+
 
 > Full list of URLs is available in the configuration file inside the repo.
 
